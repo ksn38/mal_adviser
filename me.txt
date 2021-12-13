@@ -1,0 +1,1350 @@
+<#>
+
+
+    Filter Apply one or more filters to all titles on the list.
+
+Title
+Status
+Producer
+Airing Dates Start: End:
+Season
+
+
+    Sort Choose one or two columns to be sorted in ascending or
+    descending order.
+
+Primary // Asc // Desc
+Secondary // Asc // Desc
+Apply <javascript: void(0);> Clear <javascript: void(0);>
+Viewing Your Anime List
+MyAnimeList.net <https://myanimelist.net/>
+<https://myanimelist.net/profile/mocmep>
+
+Quick Add <https://myanimelist.net/addtolist.php?hidenav=1>
+
+Anime List <https://myanimelist.net/animelist/mocmep?>
+
+Manga List <https://myanimelist.net/mangalist/mocmep?>
+
+History <https://myanimelist.net/history/mocmep>
+
+Export <https://myanimelist.net/panel.php?go=export>
+
+Logout <javascript:void(0);>
+
+List Settings
+<https://myanimelist.net/editprofile.php?go=listpreferences> Style
+Settings <https://myanimelist.net/ownlist/style>
+/
+
+/ // Style/Design Settings <https://myanimelist.net/ownlist/style>
+All Anime <https://myanimelist.net/animelist/mocmep?status=7>Currently
+Watching <https://myanimelist.net/animelist/mocmep?status=1>Completed
+<https://myanimelist.net/animelist/mocmep?status=2>On Hold
+<https://myanimelist.net/animelist/mocmep?status=3>Dropped
+<https://myanimelist.net/animelist/mocmep?status=4>Plan to Watch
+<https://myanimelist.net/animelist/mocmep?status=6>
+// <javascript: void(0);>
+ALL ANIME // Stats <javascript: void(0);> // Filters <javascript: void(0);>
+TV: 148, OVA: 7, Movies: 3, Spcl.: 2, Eps: 0, Days: 0, Mean Score: 7.3,
+Score Dev.: -0.25
+	#	Image	Anime Title
+<https://myanimelist.net/animelist/mocmep?status=7&order=1&order2=0>
+Score
+<https://myanimelist.net/animelist/mocmep?status=7&order=4&order2=0>
+Type
+<https://myanimelist.net/animelist/mocmep?status=7&order=6&order2=0>
+Progress
+<https://myanimelist.net/animelist/mocmep?status=7&order=12&order2=0>	Tags
+	1 	<https://myanimelist.net/anime/4654/Toaru_Majutsu_no_Index> 	A
+Certain Magical Index
+<https://myanimelist.net/anime/4654/Toaru_Majutsu_no_Index>
+Edit <https://myanimelist.net/ownlist/anime/4654/edit?hideLayout> - More <#>
+	8 <#> 	TV 	
+- <#> / 24 // <#>
+	
+Edit <#>
+	2 	<https://myanimelist.net/anime/9776/A-Channel> 	A-Channel
+<https://myanimelist.net/anime/9776/A-Channel>
+Edit <https://myanimelist.net/ownlist/anime/9776/edit?hideLayout> - More <#>
+	7 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	3 	<https://myanimelist.net/anime/17082/Aiura> 	Aiura
+<https://myanimelist.net/anime/17082/Aiura> Watch Episode Video
+<https://myanimelist.net/anime/17082/Aiura/video>
+Edit <https://myanimelist.net/ownlist/anime/17082/edit?hideLayout> -
+More <#>
+	5 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	4 	<https://myanimelist.net/anime/47/Akira> 	AKIRA
+<https://myanimelist.net/anime/47/Akira>
+Edit <https://myanimelist.net/ownlist/anime/47/edit?hideLayout> - More <#>
+	5 <#> 	Movie 	
+- <#> / 1 // <#>
+	
+Edit <#>
+	5 	<https://myanimelist.net/anime/8676/Amagami_SS> 	Amagami SS
+<https://myanimelist.net/anime/8676/Amagami_SS>
+Edit <https://myanimelist.net/ownlist/anime/8676/edit?hideLayout> - More <#>
+	4 <#> 	TV 	
+- <#> / 25 // <#>
+	
+Edit <#>
+	6 	<https://myanimelist.net/anime/22147/Amagi_Brilliant_Park> 	Amagi
+Brilliant Park <https://myanimelist.net/anime/22147/Amagi_Brilliant_Park>
+Edit <https://myanimelist.net/ownlist/anime/22147/edit?hideLayout> -
+More <#>
+	8 <#> 	TV 	
+- <#> / 13 // <#>
+	
+Edit <#>
+	7 	<https://myanimelist.net/anime/477/Aria_the_Animation> 	Aria the
+Animation <https://myanimelist.net/anime/477/Aria_the_Animation>
+Edit <https://myanimelist.net/ownlist/anime/477/edit?hideLayout> - More <#>
+	7 <#> 	TV 	
+- <#> / 13 // <#>
+	
+Edit <#>
+	8 	<https://myanimelist.net/anime/8630/Hidan_no_Aria> 	Aria the Scarlet
+Ammo <https://myanimelist.net/anime/8630/Hidan_no_Aria>
+Edit <https://myanimelist.net/ownlist/anime/8630/edit?hideLayout> - More <#>
+	9 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	9 	<https://myanimelist.net/anime/9736/Astarotte_no_Omocha>
+Astarotte's Toy <https://myanimelist.net/anime/9736/Astarotte_no_Omocha>
+Edit <https://myanimelist.net/ownlist/anime/9736/edit?hideLayout> - More <#>
+	6 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	10 	<https://myanimelist.net/anime/66/Azumanga_Daioh> 	Azumanga Daioh:
+The Animation <https://myanimelist.net/anime/66/Azumanga_Daioh>
+Edit <https://myanimelist.net/ownlist/anime/66/edit?hideLayout> - More <#>
+	8 <#> 	TV 	
+- <#> / 26 // <#>
+	
+Edit <#>
+	11 	<https://myanimelist.net/anime/6347/Baka_to_Test_to_Shoukanjuu>
+Baka & Test - Summon the Beasts
+<https://myanimelist.net/anime/6347/Baka_to_Test_to_Shoukanjuu>
+Edit <https://myanimelist.net/ownlist/anime/6347/edit?hideLayout> - More <#>
+	8 <#> 	TV 	
+- <#> / 13 // <#>
+	
+Edit <#>
+	12 	<https://myanimelist.net/anime/5081/Bakemonogatari> 	Bakemonogatari
+<https://myanimelist.net/anime/5081/Bakemonogatari>
+Edit <https://myanimelist.net/ownlist/anime/5081/edit?hideLayout> - More <#>
+	4 <#> 	TV 	
+- <#> / 15 // <#>
+	
+Edit <#>
+	13 	<https://myanimelist.net/anime/22789/Barakamon> 	Barakamon
+<https://myanimelist.net/anime/22789/Barakamon> Watch Episode Video
+<https://myanimelist.net/anime/22789/Barakamon/video>
+Edit <https://myanimelist.net/ownlist/anime/22789/edit?hideLayout> -
+More <#>
+	5 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	14 	<https://myanimelist.net/anime/34618/Blend_S> 	BLEND-S
+<https://myanimelist.net/anime/34618/Blend_S>
+Edit <https://myanimelist.net/ownlist/anime/34618/edit?hideLayout> -
+More <#>
+	10 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	15 	<https://myanimelist.net/anime/357/Bokusatsu_Tenshi_Dokuro-chan>
+Bludgeoning Angel Dokuro-chan
+<https://myanimelist.net/anime/357/Bokusatsu_Tenshi_Dokuro-chan>
+Edit <https://myanimelist.net/ownlist/anime/357/edit?hideLayout> - More <#>
+	10 <#> 	OVA 	
+- <#> / 4 // <#>
+	
+Edit <#>
+	16 	<https://myanimelist.net/anime/2131/Bokusatsu_Tenshi_Dokuro-chan_2>
+	Bludgeoning Angel Dokuro-chan 2
+<https://myanimelist.net/anime/2131/Bokusatsu_Tenshi_Dokuro-chan_2>
+Edit <https://myanimelist.net/ownlist/anime/2131/edit?hideLayout> - More <#>
+	10 <#> 	OVA 	
+- <#> / 2 // <#>
+	
+Edit <#>
+	17 	<https://myanimelist.net/anime/6166/Asobi_ni_Iku_yo> 	Cat Planet
+Cuties <https://myanimelist.net/anime/6166/Asobi_ni_Iku_yo>
+Edit <https://myanimelist.net/ownlist/anime/6166/edit?hideLayout> - More <#>
+	6 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	18 	<https://myanimelist.net/anime/18495/Kitakubu_Katsudou_Kiroku>
+Chronicles of the Going Home Club
+<https://myanimelist.net/anime/18495/Kitakubu_Katsudou_Kiroku>
+Edit <https://myanimelist.net/ownlist/anime/18495/edit?hideLayout> -
+More <#>
+	5 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	19 	<https://myanimelist.net/anime/15583/Date_A_Live> 	Date A Live
+<https://myanimelist.net/anime/15583/Date_A_Live>
+Edit <https://myanimelist.net/ownlist/anime/15583/edit?hideLayout> -
+More <#>
+	6 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	20 	<https://myanimelist.net/anime/1535/Death_Note> 	Death Note
+<https://myanimelist.net/anime/1535/Death_Note>
+Edit <https://myanimelist.net/ownlist/anime/1535/edit?hideLayout> - More <#>
+	5 <#> 	TV 	
+- <#> / 37 // <#>
+	
+Edit <#>
+	21 	<https://myanimelist.net/anime/7088/Ichiban_Ushiro_no_Daimaou>
+Demon King Daimao
+<https://myanimelist.net/anime/7088/Ichiban_Ushiro_no_Daimaou> Watch
+Episode Video
+<https://myanimelist.net/anime/7088/Ichiban_Ushiro_no_Daimaou/video>
+Edit <https://myanimelist.net/ownlist/anime/7088/edit?hideLayout> - More <#>
+	10 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	22 	<https://myanimelist.net/anime/3702/Detroit_Metal_City> 	Detroit
+Metal City: The Animated Series
+<https://myanimelist.net/anime/3702/Detroit_Metal_City>
+Edit <https://myanimelist.net/ownlist/anime/3702/edit?hideLayout> - More <#>
+	5 <#> 	OVA 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	23 	<https://myanimelist.net/anime/2924/ef__A_Tale_of_Memories> 	ef - a
+tale of memories.
+<https://myanimelist.net/anime/2924/ef__A_Tale_of_Memories>
+Edit <https://myanimelist.net/ownlist/anime/2924/edit?hideLayout> - More <#>
+	6 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	24 	<https://myanimelist.net/anime/226/Elfen_Lied> 	Elfen Lied
+<https://myanimelist.net/anime/226/Elfen_Lied>
+Edit <https://myanimelist.net/ownlist/anime/226/edit?hideLayout> - More <#>
+	7 <#> 	TV 	
+- <#> / 13 // <#>
+	
+Edit <#>
+	25 	<https://myanimelist.net/anime/14355/Yama_no_Susume> 	Encouragement
+of Climb <https://myanimelist.net/anime/14355/Yama_no_Susume>
+Edit <https://myanimelist.net/ownlist/anime/14355/edit?hideLayout> -
+More <#>
+	8 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	26 	<https://myanimelist.net/anime/790/Ergo_Proxy> 	Ergo Proxy
+<https://myanimelist.net/anime/790/Ergo_Proxy>
+Edit <https://myanimelist.net/ownlist/anime/790/edit?hideLayout> - More <#>
+	6 <#> 	TV 	
+- <#> / 23 // <#>
+	
+Edit <#>
+	27 	<https://myanimelist.net/anime/32901/Eromanga-sensei> 	Eromanga
+Sensei <https://myanimelist.net/anime/32901/Eromanga-sensei>
+Edit <https://myanimelist.net/ownlist/anime/32901/edit?hideLayout> -
+More <#>
+	8 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	28
+<https://myanimelist.net/anime/14829/Fate_kaleid_liner_Prisma%E2%98%86Illya> 	Fate/Kaleid Liner Prisma Illya <https://myanimelist.net/anime/14829/Fate_kaleid_liner_Prisma%E2%98%86Illya>
+Edit <https://myanimelist.net/ownlist/anime/14829/edit?hideLayout> -
+More <#>
+	8 <#> 	TV 	
+- <#> / 10 // <#>
+	
+Edit <#>
+	29 	<https://myanimelist.net/anime/32979/Flip_Flappers> 	Flip Flappers
+<https://myanimelist.net/anime/32979/Flip_Flappers>
+Edit <https://myanimelist.net/ownlist/anime/32979/edit?hideLayout> -
+More <#>
+	7 <#> 	TV 	
+- <#> / 13 // <#>
+	
+Edit <#>
+	30 	<https://myanimelist.net/anime/72/Full_Metal_Panic_Fumoffu> 	Full
+Metal Panic? Fumoffu
+<https://myanimelist.net/anime/72/Full_Metal_Panic_Fumoffu>
+Edit <https://myanimelist.net/ownlist/anime/72/edit?hideLayout> - More <#>
+	10 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	31 	<https://myanimelist.net/anime/240/Genshiken> 	Genshiken
+<https://myanimelist.net/anime/240/Genshiken>
+Edit <https://myanimelist.net/ownlist/anime/240/edit?hideLayout> - More <#>
+	9 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	32 	<https://myanimelist.net/anime/2508/Genshiken_2> 	Genshiken 2
+<https://myanimelist.net/anime/2508/Genshiken_2>
+Edit <https://myanimelist.net/ownlist/anime/2508/edit?hideLayout> - More <#>
+	9 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	33 	<https://myanimelist.net/anime/918/Gintama> 	Gintama
+<https://myanimelist.net/anime/918/Gintama> Watch Episode Video
+<https://myanimelist.net/anime/918/Gintama/video>
+Edit <https://myanimelist.net/ownlist/anime/918/edit?hideLayout> - More <#>
+	9 <#> 	TV 	
+- <#> / 201 // <#>
+	
+Edit <#>
+	34 	<https://myanimelist.net/anime/14811/GJ-bu> 	GJ Club
+<https://myanimelist.net/anime/14811/GJ-bu>
+Edit <https://myanimelist.net/ownlist/anime/14811/edit?hideLayout> -
+More <#>
+	6 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	35 	<https://myanimelist.net/anime/17895/Golden_Time> 	Golden Time
+<https://myanimelist.net/anime/17895/Golden_Time> Watch Episode Video
+<https://myanimelist.net/anime/17895/Golden_Time/video>
+Edit <https://myanimelist.net/ownlist/anime/17895/edit?hideLayout> -
+More <#>
+	8 <#> 	TV 	
+- <#> / 24 // <#>
+	
+Edit <#>
+	36 	<https://myanimelist.net/anime/24629/Koufuku_Graffiti> 	Gourmet
+Girl Graffiti <https://myanimelist.net/anime/24629/Koufuku_Graffiti>
+Edit <https://myanimelist.net/ownlist/anime/24629/edit?hideLayout> -
+More <#>
+	5 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	37 	<https://myanimelist.net/anime/10719/Boku_wa_Tomodachi_ga_Sukunai>
+Haganai: I don't have many friends
+<https://myanimelist.net/anime/10719/Boku_wa_Tomodachi_ga_Sukunai>
+Edit <https://myanimelist.net/ownlist/anime/10719/edit?hideLayout> -
+More <#>
+	8 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	38 	<https://myanimelist.net/anime/9289/Hanasaku_Iroha> 	Hanasaku
+Iroha: Blossoms for Tomorrow
+<https://myanimelist.net/anime/9289/Hanasaku_Iroha>
+Edit <https://myanimelist.net/ownlist/anime/9289/edit?hideLayout> - More <#>
+	9 <#> 	TV 	
+- <#> / 26 // <#>
+	
+Edit <#>
+	39 	<https://myanimelist.net/anime/5958/Sora_no_Otoshimono> 	Heaven's
+Lost Property <https://myanimelist.net/anime/5958/Sora_no_Otoshimono>
+Edit <https://myanimelist.net/ownlist/anime/5958/edit?hideLayout> - More <#>
+	8 <#> 	TV 	
+- <#> / 13 // <#>
+	
+Edit <#>
+	40 	<https://myanimelist.net/anime/8407/Sora_no_Otoshimono__Forte>
+Heaven's Lost Property: Forte
+<https://myanimelist.net/anime/8407/Sora_no_Otoshimono__Forte>
+Edit <https://myanimelist.net/ownlist/anime/8407/edit?hideLayout> - More <#>
+	8 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	41 	<https://myanimelist.net/anime/10568/Kamisama_no_Memochou>
+Heaven's Memo Pad
+<https://myanimelist.net/anime/10568/Kamisama_no_Memochou>
+Edit <https://myanimelist.net/ownlist/anime/10568/edit?hideLayout> -
+More <#>
+	7 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	42 	<https://myanimelist.net/anime/1852/Hidamari_Sketch> 	Hidamari
+Sketch <https://myanimelist.net/anime/1852/Hidamari_Sketch>
+Edit <https://myanimelist.net/ownlist/anime/1852/edit?hideLayout> - More <#>
+	8 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	43 	<https://myanimelist.net/anime/11617/High_School_DxD> 	High School
+DxD <https://myanimelist.net/anime/11617/High_School_DxD>
+Edit <https://myanimelist.net/ownlist/anime/11617/edit?hideLayout> -
+More <#>
+	6 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	44 	<https://myanimelist.net/anime/28825/Himouto_Umaru-chan> 	Himouto!
+Umaru-chan <https://myanimelist.net/anime/28825/Himouto_Umaru-chan>
+Edit <https://myanimelist.net/ownlist/anime/28825/edit?hideLayout> -
+More <#>
+	8 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	45
+<https://myanimelist.net/anime/16157/Choujigen_Game_Neptune_The_Animation> 	Hyperdimension Neptunia <https://myanimelist.net/anime/16157/Choujigen_Game_Neptune_The_Animation>
+Edit <https://myanimelist.net/ownlist/anime/16157/edit?hideLayout> -
+More <#>
+	10 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	46 	<https://myanimelist.net/anime/33988/Demi-chan_wa_Kataritai>
+Interviews With Monster Girls
+<https://myanimelist.net/anime/33988/Demi-chan_wa_Kataritai> Watch
+Episode Video
+<https://myanimelist.net/anime/33988/Demi-chan_wa_Kataritai/video>
+Edit <https://myanimelist.net/ownlist/anime/33988/edit?hideLayout> -
+More <#>
+	7 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	47 	<https://myanimelist.net/anime/21273/Gochuumon_wa_Usagi_Desu_ka>
+Is the Order a Rabbit?
+<https://myanimelist.net/anime/21273/Gochuumon_wa_Usagi_Desu_ka>
+Edit <https://myanimelist.net/ownlist/anime/21273/edit?hideLayout> -
+More <#>
+	7 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	48 	<https://myanimelist.net/anime/29787/Gochuumon_wa_Usagi_Desu_ka>
+Is the Order a Rabbit??
+<https://myanimelist.net/anime/29787/Gochuumon_wa_Usagi_Desu_ka>
+Edit <https://myanimelist.net/ownlist/anime/29787/edit?hideLayout> -
+More <#>
+	7 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	49 	<https://myanimelist.net/anime/8841/Kore_wa_Zombie_Desu_ka> 	Is
+This a Zombie? <https://myanimelist.net/anime/8841/Kore_wa_Zombie_Desu_ka>
+Edit <https://myanimelist.net/ownlist/anime/8841/edit?hideLayout> - More <#>
+	7 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	50 	<https://myanimelist.net/anime/12679/Joshiraku> 	Joshiraku
+<https://myanimelist.net/anime/12679/Joshiraku>
+Edit <https://myanimelist.net/ownlist/anime/12679/edit?hideLayout> -
+More <#>
+	6 <#> 	TV 	
+- <#> / 13 // <#>
+	
+Edit <#>
+	51 	<https://myanimelist.net/anime/5680/K-On> 	K-ON!
+<https://myanimelist.net/anime/5680/K-On>
+Edit <https://myanimelist.net/ownlist/anime/5680/edit?hideLayout> - More <#>
+	10 <#> 	TV 	
+- <#> / 13 // <#>
+	
+Edit <#>
+	52 	<https://myanimelist.net/anime/6862/K-On__Live_House> 	K-ON! Live
+House! <https://myanimelist.net/anime/6862/K-On__Live_House>
+Edit <https://myanimelist.net/ownlist/anime/6862/edit?hideLayout> - More <#>
+	10 <#> 	Special 	
+- <#> / 1 // <#>
+	
+Edit <#>
+	53 	<https://myanimelist.net/anime/7791/K-On> 	K-ON! Season 2
+<https://myanimelist.net/anime/7791/K-On>
+Edit <https://myanimelist.net/ownlist/anime/7791/edit?hideLayout> - More <#>
+	10 <#> 	TV 	
+- <#> / 26 // <#>
+	
+Edit <#>
+	54 	<https://myanimelist.net/anime/9617/K-On_Movie> 	K-ON! The Movie
+<https://myanimelist.net/anime/9617/K-On_Movie>
+Edit <https://myanimelist.net/ownlist/anime/9617/edit?hideLayout> - More <#>
+	10 <#> 	Movie 	
+- <#> / 1 // <#>
+	
+Edit <#>
+	55 	<https://myanimelist.net/anime/9734/K-On__Keikaku> 	K-ON!! Plan!
+<https://myanimelist.net/anime/9734/K-On__Keikaku>
+Edit <https://myanimelist.net/ownlist/anime/9734/edit?hideLayout> - More <#>
+	10 <#> 	Special 	
+- <#> / 1 // <#>
+	
+Edit <#>
+	56 	<https://myanimelist.net/anime/3503/Kanokon> 	Kanokon: The Girl Who
+Cried Fox <https://myanimelist.net/anime/3503/Kanokon>
+Edit <https://myanimelist.net/ownlist/anime/3503/edit?hideLayout> - More <#>
+	7 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	57 	<https://myanimelist.net/anime/18679/Kill_la_Kill> 	KILL la KILL
+<https://myanimelist.net/anime/18679/Kill_la_Kill> Watch Episode Video
+<https://myanimelist.net/anime/18679/Kill_la_Kill/video>
+Edit <https://myanimelist.net/ownlist/anime/18679/edit?hideLayout> -
+More <#>
+	5 <#> 	TV 	
+- <#> / 24 // <#>
+	
+Edit <#>
+	58 	<https://myanimelist.net/anime/11079/Kill_Me_Baby> 	Kill Me Baby
+<https://myanimelist.net/anime/11079/Kill_Me_Baby>
+Edit <https://myanimelist.net/ownlist/anime/11079/edit?hideLayout> -
+More <#>
+	7 <#> 	TV 	
+- <#> / 13 // <#>
+	
+Edit <#>
+	59 	<https://myanimelist.net/anime/16732/Kiniro_Mosaic> 	KINMOZA!
+<https://myanimelist.net/anime/16732/Kiniro_Mosaic>
+Edit <https://myanimelist.net/ownlist/anime/16732/edit?hideLayout> -
+More <#>
+	7 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	60 	<https://myanimelist.net/anime/5042/Kiss_x_Sis> 	Kiss x Sis
+<https://myanimelist.net/anime/5042/Kiss_x_Sis>
+Edit <https://myanimelist.net/ownlist/anime/5042/edit?hideLayout> - More <#>
+	6 <#> 	OVA 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	61 	<https://myanimelist.net/anime/7593/Kiss_x_Sis_TV> 	Kiss x Sis (TV)
+<https://myanimelist.net/anime/7593/Kiss_x_Sis_TV>
+Edit <https://myanimelist.net/ownlist/anime/7593/edit?hideLayout> - More <#>
+	7 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	62 	<https://myanimelist.net/anime/2403/Kodomo_no_Jikan_TV> 	Kodomo no
+Jikan (TV) <https://myanimelist.net/anime/2403/Kodomo_no_Jikan_TV>
+Edit <https://myanimelist.net/ownlist/anime/2403/edit?hideLayout> - More <#>
+	6 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	63 	<https://myanimelist.net/anime/8876/Koe_de_Oshigoto_The_Animation>
+Koe de Oshigoto!
+<https://myanimelist.net/anime/8876/Koe_de_Oshigoto_The_Animation>
+Edit <https://myanimelist.net/ownlist/anime/8876/edit?hideLayout> - More <#>
+	10 <#> 	OVA 	
+- <#> / 2 // <#>
+	
+Edit <#>
+	64 	<https://myanimelist.net/anime/11887/Kokoro_Connect> 	Kokoro
+Connect <https://myanimelist.net/anime/11887/Kokoro_Connect>
+Edit <https://myanimelist.net/ownlist/anime/11887/edit?hideLayout> -
+More <#>
+	8 <#> 	TV 	
+- <#> / 13 // <#>
+	
+Edit <#>
+	65
+<https://myanimelist.net/anime/30831/Kono_Subarashii_Sekai_ni_Shukufuku_wo> 	KonoSuba: God's Blessing on This Wonderful World! <https://myanimelist.net/anime/30831/Kono_Subarashii_Sekai_ni_Shukufuku_wo> Watch Episode Video <https://myanimelist.net/anime/30831/Kono_Subarashii_Sekai_ni_Shukufuku_wo/video>
+Edit <https://myanimelist.net/ownlist/anime/30831/edit?hideLayout> -
+More <#>
+	10 <#> 	TV 	
+- <#> / 10 // <#>
+	
+Edit <#>
+	66
+<https://myanimelist.net/anime/32937/Kono_Subarashii_Sekai_ni_Shukufuku_wo_2> 	KonoSuba: God's Blessing on This Wonderful World! 2 <https://myanimelist.net/anime/32937/Kono_Subarashii_Sekai_ni_Shukufuku_wo_2> Watch Episode Video <https://myanimelist.net/anime/32937/Kono_Subarashii_Sekai_ni_Shukufuku_wo_2/video>
+Edit <https://myanimelist.net/ownlist/anime/32937/edit?hideLayout> -
+More <#>
+	10 <#> 	TV 	
+- <#> / 10 // <#>
+	
+Edit <#>
+	67 	<https://myanimelist.net/anime/11179/Papa_no_Iukoto_wo_Kikinasai>
+Listen to Me, Girls. I Am Your Father!
+<https://myanimelist.net/anime/11179/Papa_no_Iukoto_wo_Kikinasai>
+Edit <https://myanimelist.net/ownlist/anime/11179/edit?hideLayout> -
+More <#>
+	7 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	68 	<https://myanimelist.net/anime/16353/Love_Lab> 	Love Lab
+<https://myanimelist.net/anime/16353/Love_Lab>
+Edit <https://myanimelist.net/ownlist/anime/16353/edit?hideLayout> -
+More <#>
+	10 <#> 	TV 	
+- <#> / 13 // <#>
+	
+Edit <#>
+	69 	<https://myanimelist.net/anime/15051/Love_Live_School_Idol_Project>
+	Love Live! School Idol Project
+<https://myanimelist.net/anime/15051/Love_Live_School_Idol_Project>
+Edit <https://myanimelist.net/ownlist/anime/15051/edit?hideLayout> -
+More <#>
+	5 <#> 	TV 	
+- <#> / 13 // <#>
+	
+Edit <#>
+	70
+<https://myanimelist.net/anime/19111/Love_Live_School_Idol_Project_2nd_Season> 	Love Live! School Idol Project 2 <https://myanimelist.net/anime/19111/Love_Live_School_Idol_Project_2nd_Season>
+Edit <https://myanimelist.net/ownlist/anime/19111/edit?hideLayout> -
+More <#>
+	5 <#> 	TV 	
+- <#> / 13 // <#>
+	
+Edit <#>
+	71 	<https://myanimelist.net/anime/32526/Love_Live_Sunshine> 	Love
+Live! Sunshine!! <https://myanimelist.net/anime/32526/Love_Live_Sunshine>
+Edit <https://myanimelist.net/ownlist/anime/32526/edit?hideLayout> -
+More <#>
+	5 <#> 	TV 	
+- <#> / 13 // <#>
+	
+Edit <#>
+	72 	<https://myanimelist.net/anime/14741/Chuunibyou_demo_Koi_ga_Shitai>
+	Love, Chunibyo & Other Delusions!
+<https://myanimelist.net/anime/14741/Chuunibyou_demo_Koi_ga_Shitai>
+Edit <https://myanimelist.net/ownlist/anime/14741/edit?hideLayout> -
+More <#>
+	6 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	73 	<https://myanimelist.net/anime/1887/Lucky%E2%98%86Star> 	Lucky☆Star
+<https://myanimelist.net/anime/1887/Lucky%E2%98%86Star>
+Edit <https://myanimelist.net/ownlist/anime/1887/edit?hideLayout> - More <#>
+	10 <#> 	TV 	
+- <#> / 24 // <#>
+	
+Edit <#>
+	74 	<https://myanimelist.net/anime/7054/Kaichou_wa_Maid-sama> 	Maid
+Sama! <https://myanimelist.net/anime/7054/Kaichou_wa_Maid-sama>
+Edit <https://myanimelist.net/ownlist/anime/7054/edit?hideLayout> - More <#>
+	5 <#> 	TV 	
+- <#> / 26 // <#>
+	
+Edit <#>
+	75 	<https://myanimelist.net/anime/9936/Maken-Ki> 	Maken-Ki!
+<https://myanimelist.net/anime/9936/Maken-Ki>
+Edit <https://myanimelist.net/ownlist/anime/9936/edit?hideLayout> - More <#>
+	6 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	76 	<https://myanimelist.net/anime/5030/Maria%E2%80%A0Holic>
+Maria†Holic <https://myanimelist.net/anime/5030/Maria%E2%80%A0Holic>
+Edit <https://myanimelist.net/ownlist/anime/5030/edit?hideLayout> - More <#>
+	8 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	77 	<https://myanimelist.net/anime/2963/Minami-ke> 	Minami-ke
+<https://myanimelist.net/anime/2963/Minami-ke>
+Edit <https://myanimelist.net/ownlist/anime/2963/edit?hideLayout> - More <#>
+	8 <#> 	TV 	
+- <#> / 13 // <#>
+	
+Edit <#>
+	78 	<https://myanimelist.net/anime/5162/Minami-ke_Okaeri> 	Minami-ke
+Okaeri <https://myanimelist.net/anime/5162/Minami-ke_Okaeri>
+Edit <https://myanimelist.net/ownlist/anime/5162/edit?hideLayout> - More <#>
+	8 <#> 	TV 	
+- <#> / 13 // <#>
+	
+Edit <#>
+	79 	<https://myanimelist.net/anime/3225/Minami-ke_Okawari> 	Minami-ke
+Okawari <https://myanimelist.net/anime/3225/Minami-ke_Okawari>
+Edit <https://myanimelist.net/ownlist/anime/3225/edit?hideLayout> - More <#>
+	8 <#> 	TV 	
+- <#> / 13 // <#>
+	
+Edit <#>
+	80 	<https://myanimelist.net/anime/8460/Mirai_Nikki> 	Mirai Nikki
+<https://myanimelist.net/anime/8460/Mirai_Nikki>
+Edit <https://myanimelist.net/ownlist/anime/8460/edit?hideLayout> - More <#>
+	6 <#> 	OVA 	
+- <#> / 1 // <#>
+	
+Edit <#>
+	81
+<https://myanimelist.net/anime/33206/Kobayashi-san_Chi_no_Maid_Dragon>
+Miss Kobayashi's Dragon Maid
+<https://myanimelist.net/anime/33206/Kobayashi-san_Chi_no_Maid_Dragon>
+Watch Episode Video
+<https://myanimelist.net/anime/33206/Kobayashi-san_Chi_no_Maid_Dragon/video>
+Edit <https://myanimelist.net/ownlist/anime/33206/edit?hideLayout> -
+More <#>
+	8 <#> 	TV 	
+- <#> / 13 // <#>
+	
+Edit <#>
+	82 	<https://myanimelist.net/anime/2581/Mobile_Suit_Gundam_00> 	Mobile
+Suit Gundam 00
+<https://myanimelist.net/anime/2581/Mobile_Suit_Gundam_00> Watch Episode
+Video <https://myanimelist.net/anime/2581/Mobile_Suit_Gundam_00/video>
+Edit <https://myanimelist.net/ownlist/anime/2581/edit?hideLayout> - More <#>
+	5 <#> 	TV 	
+- <#> / 25 // <#>
+	
+Edit <#>
+	83 	<https://myanimelist.net/anime/2367/Moetan> 	Moetan
+<https://myanimelist.net/anime/2367/Moetan>
+Edit <https://myanimelist.net/ownlist/anime/2367/edit?hideLayout> - More <#>
+	7 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	84 	<https://myanimelist.net/anime/23289/Gekkan_Shoujo_Nozaki-kun>
+Monthly Girls' Nozaki-kun
+<https://myanimelist.net/anime/23289/Gekkan_Shoujo_Nozaki-kun>
+Edit <https://myanimelist.net/ownlist/anime/23289/edit?hideLayout> -
+More <#>
+	8 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	85
+<https://myanimelist.net/anime/14813/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru> 	My Teen Romantic Comedy SNAFU <https://myanimelist.net/anime/14813/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru>
+Edit <https://myanimelist.net/ownlist/anime/14813/edit?hideLayout> -
+More <#>
+	8 <#> 	TV 	
+- <#> / 13 // <#>
+	
+Edit <#>
+	86
+<https://myanimelist.net/anime/23847/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru_Zoku> 	My Teen Romantic Comedy SNAFU TOO! <https://myanimelist.net/anime/23847/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru_Zoku>
+Edit <https://myanimelist.net/ownlist/anime/23847/edit?hideLayout> -
+More <#>
+	8 <#> 	TV 	
+- <#> / 13 // <#>
+	
+Edit <#>
+	87 	<https://myanimelist.net/anime/30/Neon_Genesis_Evangelion> 	Neon
+Genesis Evangelion
+<https://myanimelist.net/anime/30/Neon_Genesis_Evangelion>
+Edit <https://myanimelist.net/ownlist/anime/30/edit?hideLayout> - More <#>
+	7 <#> 	TV 	
+- <#> / 26 // <#>
+	
+Edit <#>
+	88 	<https://myanimelist.net/anime/31953/New_Game> 	New Game!
+<https://myanimelist.net/anime/31953/New_Game> Watch Episode Video
+<https://myanimelist.net/anime/31953/New_Game/video>
+Edit <https://myanimelist.net/ownlist/anime/31953/edit?hideLayout> -
+More <#>
+	6 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	89 	<https://myanimelist.net/anime/34914/New_Game> 	New Game!!
+<https://myanimelist.net/anime/34914/New_Game> Watch Episode Video
+<https://myanimelist.net/anime/34914/New_Game/video>
+Edit <https://myanimelist.net/ownlist/anime/34914/edit?hideLayout> -
+More <#>
+	7 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	90 	<https://myanimelist.net/anime/10165/Nichijou> 	Nichijou - My
+Ordinary Life <https://myanimelist.net/anime/10165/Nichijou>
+Edit <https://myanimelist.net/ownlist/anime/10165/edit?hideLayout> -
+More <#>
+	8 <#> 	TV 	
+- <#> / 26 // <#>
+	
+Edit <#>
+	91 	<https://myanimelist.net/anime/11597/Nisemonogatari>
+Nisemonogatari <https://myanimelist.net/anime/11597/Nisemonogatari>
+Edit <https://myanimelist.net/ownlist/anime/11597/edit?hideLayout> -
+More <#>
+	4 <#> 	TV 	
+- <#> / 11 // <#>
+	
+Edit <#>
+	92 	<https://myanimelist.net/anime/19815/No_Game_No_Life> 	No Game, No
+Life <https://myanimelist.net/anime/19815/No_Game_No_Life>
+Edit <https://myanimelist.net/ownlist/anime/19815/edit?hideLayout> -
+More <#>
+	7 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	93 	<https://myanimelist.net/anime/17549/Non_Non_Biyori> 	Non Non
+Biyori <https://myanimelist.net/anime/17549/Non_Non_Biyori> Watch
+Episode Video <https://myanimelist.net/anime/17549/Non_Non_Biyori/video>
+Edit <https://myanimelist.net/ownlist/anime/17549/edit?hideLayout> -
+More <#>
+	8 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	94 	<https://myanimelist.net/anime/23623/Non_Non_Biyori_Repeat> 	Non
+Non Biyori Repeat
+<https://myanimelist.net/anime/23623/Non_Non_Biyori_Repeat> Watch
+Episode Video
+<https://myanimelist.net/anime/23623/Non_Non_Biyori_Repeat/video>
+Edit <https://myanimelist.net/ownlist/anime/23623/edit?hideLayout> -
+More <#>
+	8 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	95 	<https://myanimelist.net/anime/20507/Noragami> 	Noragami
+<https://myanimelist.net/anime/20507/Noragami>
+Edit <https://myanimelist.net/ownlist/anime/20507/edit?hideLayout> -
+More <#>
+	7 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	96
+<https://myanimelist.net/anime/8769/Ore_no_Imouto_ga_Konnani_Kawaii_Wake_ga_Nai> 	OreImo <https://myanimelist.net/anime/8769/Ore_no_Imouto_ga_Konnani_Kawaii_Wake_ga_Nai>
+Edit <https://myanimelist.net/ownlist/anime/8769/edit?hideLayout> - More <#>
+	10 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	97
+<https://myanimelist.net/anime/13659/Ore_no_Imouto_ga_Konnani_Kawaii_Wake_ga_Nai> 	Oreimo 2 <https://myanimelist.net/anime/13659/Ore_no_Imouto_ga_Konnani_Kawaii_Wake_ga_Nai>
+Edit <https://myanimelist.net/ownlist/anime/13659/edit?hideLayout> -
+More <#>
+	8 <#> 	TV 	
+- <#> / 13 // <#>
+	
+Edit <#>
+	98 	<https://myanimelist.net/anime/853/Ouran_Koukou_Host_Club> 	Ouran
+High School Host Club
+<https://myanimelist.net/anime/853/Ouran_Koukou_Host_Club>
+Edit <https://myanimelist.net/ownlist/anime/853/edit?hideLayout> - More <#>
+	8 <#> 	TV 	
+- <#> / 26 // <#>
+	
+Edit <#>
+	99 	<https://myanimelist.net/anime/12291/Acchi_Kocchi_TV> 	Place to
+Place <https://myanimelist.net/anime/12291/Acchi_Kocchi_TV>
+Edit <https://myanimelist.net/ownlist/anime/12291/edit?hideLayout> -
+More <#>
+	6 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	100 	<https://myanimelist.net/anime/27775/Plastic_Memories> 	Plastic
+Memories <https://myanimelist.net/anime/27775/Plastic_Memories> Watch
+Episode Video <https://myanimelist.net/anime/27775/Plastic_Memories/video>
+Edit <https://myanimelist.net/ownlist/anime/27775/edit?hideLayout> -
+More <#>
+	4 <#> 	TV 	
+- <#> / 13 // <#>
+	
+Edit <#>
+	101 	<https://myanimelist.net/anime/610/Popotan> 	Popotan
+<https://myanimelist.net/anime/610/Popotan>
+Edit <https://myanimelist.net/ownlist/anime/610/edit?hideLayout> - More <#>
+	7 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	102
+<https://myanimelist.net/anime/9756/Mahou_Shoujo_Madoka%E2%98%85Magica>
+Puella Magi Madoka Magica
+<https://myanimelist.net/anime/9756/Mahou_Shoujo_Madoka%E2%98%85Magica>
+Edit <https://myanimelist.net/ownlist/anime/9756/edit?hideLayout> - More <#>
+	7 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	103
+<https://myanimelist.net/anime/31240/Re_Zero_kara_Hajimeru_Isekai_Seikatsu> 	Re:ZERO -Starting Life in Another World- <https://myanimelist.net/anime/31240/Re_Zero_kara_Hajimeru_Isekai_Seikatsu> Watch Episode Video <https://myanimelist.net/anime/31240/Re_Zero_kara_Hajimeru_Isekai_Seikatsu/video>
+Edit <https://myanimelist.net/ownlist/anime/31240/edit?hideLayout> -
+More <#>
+	4 <#> 	TV 	
+- <#> / 25 // <#>
+	
+Edit <#>
+	104 	<https://myanimelist.net/anime/10572/Ro-Kyu-Bu> 	Ro-Kyu-Bu ~ Fast
+Break! <https://myanimelist.net/anime/10572/Ro-Kyu-Bu>
+Edit <https://myanimelist.net/ownlist/anime/10572/edit?hideLayout> -
+More <#>
+	7 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	105 	<https://myanimelist.net/anime/2993/Rosario_to_Vampire> 	Rosario +
+Vampire <https://myanimelist.net/anime/2993/Rosario_to_Vampire>
+Edit <https://myanimelist.net/ownlist/anime/2993/edit?hideLayout> - More <#>
+	8 <#> 	TV 	
+- <#> / 13 // <#>
+	
+Edit <#>
+	106 	<https://myanimelist.net/anime/4214/Rosario_to_Vampire_Capu2>
+Rosario + Vampire Capu2
+<https://myanimelist.net/anime/4214/Rosario_to_Vampire_Capu2>
+Edit <https://myanimelist.net/ownlist/anime/4214/edit?hideLayout> - More <#>
+	8 <#> 	TV 	
+- <#> / 13 // <#>
+	
+Edit <#>
+	107 	<https://myanimelist.net/anime/64/Rozen_Maiden> 	Rozen Maiden
+<https://myanimelist.net/anime/64/Rozen_Maiden>
+Edit <https://myanimelist.net/ownlist/anime/64/edit?hideLayout> - More <#>
+	6 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	108 	<https://myanimelist.net/anime/65/Rozen_Maiden__Tr%C3%A4umend>
+Rozen Maiden: Träumend
+<https://myanimelist.net/anime/65/Rozen_Maiden__Tr%C3%A4umend>
+Edit <https://myanimelist.net/ownlist/anime/65/edit?hideLayout> - More <#>
+	7 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	109 	<https://myanimelist.net/anime/2605/Sayonara_Zetsubou_Sensei>
+Sayonara, Zetsubou-Sensei
+<https://myanimelist.net/anime/2605/Sayonara_Zetsubou_Sensei>
+Edit <https://myanimelist.net/ownlist/anime/2605/edit?hideLayout> - More <#>
+	6 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	110 	<https://myanimelist.net/anime/2476/School_Days> 	School Days
+<https://myanimelist.net/anime/2476/School_Days> Watch Episode Video
+<https://myanimelist.net/anime/2476/School_Days/video>
+Edit <https://myanimelist.net/ownlist/anime/2476/edit?hideLayout> - More <#>
+	5 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	111 	<https://myanimelist.net/anime/8675/Seitokai_Yakuindomo> 	Seitokai
+Yakuindomo <https://myanimelist.net/anime/8675/Seitokai_Yakuindomo>
+Edit <https://myanimelist.net/ownlist/anime/8675/edit?hideLayout> - More <#>
+	4 <#> 	TV 	
+- <#> / 13 // <#>
+	
+Edit <#>
+	112 	<https://myanimelist.net/anime/5277/Sekirei__Pure_Engagement>
+Sekirei: Pure Engagement
+<https://myanimelist.net/anime/5277/Sekirei__Pure_Engagement>
+Edit <https://myanimelist.net/ownlist/anime/5277/edit?hideLayout> - More <#>
+	4 <#> 	TV 	
+- <#> / 13 // <#>
+	
+Edit <#>
+	113 	<https://myanimelist.net/anime/355/Shakugan_no_Shana> 	Shakugan no
+Shana: Season I <https://myanimelist.net/anime/355/Shakugan_no_Shana>
+Edit <https://myanimelist.net/ownlist/anime/355/edit?hideLayout> - More <#>
+	4 <#> 	TV 	
+- <#> / 24 // <#>
+	
+Edit <#>
+	114
+<https://myanimelist.net/anime/29786/Shimoneta_to_Iu_Gainen_ga_Sonzai_Shinai_Taikutsu_na_Sekai> 	SHIMONETA: A Boring World Where the Concept of Dirty Jokes Doesn't Exist <https://myanimelist.net/anime/29786/Shimoneta_to_Iu_Gainen_ga_Sonzai_Shinai_Taikutsu_na_Sekai>
+Edit <https://myanimelist.net/ownlist/anime/29786/edit?hideLayout> -
+More <#>
+	4 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	115 	<https://myanimelist.net/anime/25835/Shirobako> 	Shirobako
+<https://myanimelist.net/anime/25835/Shirobako>
+Edit <https://myanimelist.net/ownlist/anime/25835/edit?hideLayout> -
+More <#>
+	10 <#> 	TV 	
+- <#> / 24 // <#>
+	
+Edit <#>
+	116 	<https://myanimelist.net/anime/27441/Show_By_Rock> 	Show By Rock!!
+<https://myanimelist.net/anime/27441/Show_By_Rock>
+Edit <https://myanimelist.net/ownlist/anime/27441/edit?hideLayout> -
+More <#>
+	7 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	117 	<https://myanimelist.net/anime/2966/Ookami_to_Koushinryou> 	Spice
+and Wolf <https://myanimelist.net/anime/2966/Ookami_to_Koushinryou>
+Edit <https://myanimelist.net/ownlist/anime/2966/edit?hideLayout> - More <#>
+	5 <#> 	TV 	
+- <#> / 13 // <#>
+	
+Edit <#>
+	118 	<https://myanimelist.net/anime/9253/Steins_Gate> 	Steins;Gate
+<https://myanimelist.net/anime/9253/Steins_Gate>
+Edit <https://myanimelist.net/ownlist/anime/9253/edit?hideLayout> - More <#>
+	5 <#> 	TV 	
+- <#> / 24 // <#>
+	
+Edit <#>
+	119 	<https://myanimelist.net/anime/488/Ichigo_Mashimaro> 	Strawberry
+Marshmallow <https://myanimelist.net/anime/488/Ichigo_Mashimaro>
+Edit <https://myanimelist.net/ownlist/anime/488/edit?hideLayout> - More <#>
+	7 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	120 	<https://myanimelist.net/anime/855/Strawberry_Panic> 	Strawberry
+Panic <https://myanimelist.net/anime/855/Strawberry_Panic>
+Edit <https://myanimelist.net/ownlist/anime/855/edit?hideLayout> - More <#>
+	6 <#> 	TV 	
+- <#> / 26 // <#>
+	
+Edit <#>
+	121 	<https://myanimelist.net/anime/3667/Strike_Witches> 	Strike
+Witches <https://myanimelist.net/anime/3667/Strike_Witches>
+Edit <https://myanimelist.net/ownlist/anime/3667/edit?hideLayout> - More <#>
+	10 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	122 	<https://myanimelist.net/anime/6381/Strike_Witches_2> 	Strike
+Witches 2 <https://myanimelist.net/anime/6381/Strike_Witches_2>
+Edit <https://myanimelist.net/ownlist/anime/6381/edit?hideLayout> - More <#>
+	9 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	123 	<https://myanimelist.net/anime/5909/Seitokai_no_Ichizon> 	Student
+Council's Discretion
+<https://myanimelist.net/anime/5909/Seitokai_no_Ichizon>
+Edit <https://myanimelist.net/ownlist/anime/5909/edit?hideLayout> - More <#>
+	10 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	124 	<https://myanimelist.net/anime/16417/Tamako_Market> 	Tamako Market
+<https://myanimelist.net/anime/16417/Tamako_Market>
+Edit <https://myanimelist.net/ownlist/anime/16417/edit?hideLayout> -
+More <#>
+	7 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	125 	<https://myanimelist.net/anime/7768/Tantei_Opera_Milky_Holmes>
+Tantei Opera Milky Holmes
+<https://myanimelist.net/anime/7768/Tantei_Opera_Milky_Holmes>
+Edit <https://myanimelist.net/ownlist/anime/7768/edit?hideLayout> - More <#>
+	10 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	126 	<https://myanimelist.net/anime/5781/Isekai_no_Seikishi_Monogatari>
+	Tenchi Muyo! War on Geminar
+<https://myanimelist.net/anime/5781/Isekai_no_Seikishi_Monogatari>
+Edit <https://myanimelist.net/ownlist/anime/5781/edit?hideLayout> - More <#>
+	6 <#> 	OVA 	
+- <#> / 13 // <#>
+	
+Edit <#>
+	127 	<https://myanimelist.net/anime/15809/Hataraku_Maou-sama> 	The
+Devil is a Part-Timer!
+<https://myanimelist.net/anime/15809/Hataraku_Maou-sama>
+Edit <https://myanimelist.net/ownlist/anime/15809/edit?hideLayout> -
+More <#>
+	8 <#> 	TV 	
+- <#> / 13 // <#>
+	
+Edit <#>
+	128 	<https://myanimelist.net/anime/10278/The_iDOLMSTER> 	THE
+IDOLM@STER <https://myanimelist.net/anime/10278/The_iDOLMSTER>
+Edit <https://myanimelist.net/ownlist/anime/10278/edit?hideLayout> -
+More <#>
+	5 <#> 	TV 	
+- <#> / 25 // <#>
+	
+Edit <#>
+	129 	<https://myanimelist.net/anime/849/Suzumiya_Haruhi_no_Yuuutsu>
+The Melancholy of Haruhi Suzumiya
+<https://myanimelist.net/anime/849/Suzumiya_Haruhi_no_Yuuutsu>
+Edit <https://myanimelist.net/ownlist/anime/849/edit?hideLayout> - More <#>
+	10 <#> 	TV 	
+- <#> / 14 // <#>
+	
+Edit <#>
+	130
+<https://myanimelist.net/anime/4382/Suzumiya_Haruhi_no_Yuuutsu_2009>
+The Melancholy of Haruhi Suzumiya Season 2
+<https://myanimelist.net/anime/4382/Suzumiya_Haruhi_no_Yuuutsu_2009>
+Edit <https://myanimelist.net/ownlist/anime/4382/edit?hideLayout> - More <#>
+	10 <#> 	TV 	
+- <#> / 14 // <#>
+	
+Edit <#>
+	131 	<https://myanimelist.net/anime/6500/Seikon_no_Qwaser> 	The Qwaser
+of Stigmata <https://myanimelist.net/anime/6500/Seikon_no_Qwaser>
+Edit <https://myanimelist.net/ownlist/anime/6500/edit?hideLayout> - More <#>
+	8 <#> 	TV 	
+- <#> / 24 // <#>
+	
+Edit <#>
+	132 	<https://myanimelist.net/anime/10073/Seikon_no_Qwaser_II> 	The
+Qwaser of Stigmata II
+<https://myanimelist.net/anime/10073/Seikon_no_Qwaser_II>
+Edit <https://myanimelist.net/ownlist/anime/10073/edit?hideLayout> -
+More <#>
+	8 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	133 	<https://myanimelist.net/anime/8557/Shinryaku_Ika_Musume> 	The
+Squid Girl <https://myanimelist.net/anime/8557/Shinryaku_Ika_Musume>
+Watch Episode Video
+<https://myanimelist.net/anime/8557/Shinryaku_Ika_Musume/video>
+Edit <https://myanimelist.net/ownlist/anime/8557/edit?hideLayout> - More <#>
+	8 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	134 	<https://myanimelist.net/anime/10378/Shinryaku_Ika_Musume> 	The
+Squid Girl 2 <https://myanimelist.net/anime/10378/Shinryaku_Ika_Musume>
+Watch Episode Video
+<https://myanimelist.net/anime/10378/Shinryaku_Ika_Musume/video>
+Edit <https://myanimelist.net/ownlist/anime/10378/edit?hideLayout> -
+More <#>
+	8 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	135 	<https://myanimelist.net/anime/8525/Kami_nomi_zo_Shiru_Sekai> 	The
+World God Only Knows
+<https://myanimelist.net/anime/8525/Kami_nomi_zo_Shiru_Sekai> Watch
+Episode Video
+<https://myanimelist.net/anime/8525/Kami_nomi_zo_Shiru_Sekai/video>
+Edit <https://myanimelist.net/ownlist/anime/8525/edit?hideLayout> - More <#>
+	5 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	136 	<https://myanimelist.net/anime/4224/Toradora> 	Toradora!
+<https://myanimelist.net/anime/4224/Toradora>
+Edit <https://myanimelist.net/ownlist/anime/4224/edit?hideLayout> - More <#>
+	7 <#> 	TV 	
+- <#> / 25 // <#>
+	
+Edit <#>
+	137 	<https://myanimelist.net/anime/343/Tsukuyomi__Moon_Phase>
+Tsukuyomi: Moon Phase
+<https://myanimelist.net/anime/343/Tsukuyomi__Moon_Phase>
+Edit <https://myanimelist.net/ownlist/anime/343/edit?hideLayout> - More <#>
+	7 <#> 	TV 	
+- <#> / 25 // <#>
+	
+Edit <#>
+	138 	<https://myanimelist.net/anime/32924/Urara_Meirochou> 	Urara
+Meirocho <https://myanimelist.net/anime/32924/Urara_Meirochou>
+Edit <https://myanimelist.net/ownlist/anime/32924/edit?hideLayout> -
+More <#>
+	7 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	139 	<https://myanimelist.net/anime/10521/Working> 	Wagnaria!!2
+<https://myanimelist.net/anime/10521/Working>
+Edit <https://myanimelist.net/ownlist/anime/10521/edit?hideLayout> -
+More <#>
+	9 <#> 	TV 	
+- <#> / 13 // <#>
+	
+Edit <#>
+	140 	<https://myanimelist.net/anime/25879/Working> 	Wagnaria!!3
+<https://myanimelist.net/anime/25879/Working>
+Edit <https://myanimelist.net/ownlist/anime/25879/edit?hideLayout> -
+More <#>
+	10 <#> 	TV 	
+- <#> / 13 // <#>
+	
+Edit <#>
+	141
+<https://myanimelist.net/anime/16742/Watashi_ga_Motenai_no_wa_Dou_Kangaetemo_Omaera_ga_Warui> 	WataMote: No Matter How I Look At It, It's You Guys' Fault I'm Unpopular! <https://myanimelist.net/anime/16742/Watashi_ga_Motenai_no_wa_Dou_Kangaetemo_Omaera_ga_Warui>
+Edit <https://myanimelist.net/ownlist/anime/16742/edit?hideLayout> -
+More <#>
+	7 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	142 	<https://myanimelist.net/anime/1210/NHK_ni_Youkoso> 	Welcome to
+the N.H.K. <https://myanimelist.net/anime/1210/NHK_ni_Youkoso>
+Edit <https://myanimelist.net/ownlist/anime/1210/edit?hideLayout> - More <#>
+	8 <#> 	TV 	
+- <#> / 24 // <#>
+	
+Edit <#>
+	143 	<https://myanimelist.net/anime/934/Higurashi_no_Naku_Koro_ni>
+When They Cry <https://myanimelist.net/anime/934/Higurashi_no_Naku_Koro_ni>
+Edit <https://myanimelist.net/ownlist/anime/934/edit?hideLayout> - More <#>
+	8 <#> 	TV 	
+- <#> / 26 // <#>
+	
+Edit <#>
+	144 	<https://myanimelist.net/anime/1889/Higurashi_no_Naku_Koro_ni_Kai>
+	When They Cry: Kai
+<https://myanimelist.net/anime/1889/Higurashi_no_Naku_Koro_ni_Kai>
+Edit <https://myanimelist.net/ownlist/anime/1889/edit?hideLayout> - More <#>
+	7 <#> 	TV 	
+- <#> / 24 // <#>
+	
+Edit <#>
+	145 	<https://myanimelist.net/anime/30279/Yuru_Yuri_San%E2%98%86Hai>
+Yuru Yuri San☆Hai!
+<https://myanimelist.net/anime/30279/Yuru_Yuri_San%E2%98%86Hai> Watch
+Episode Video
+<https://myanimelist.net/anime/30279/Yuru_Yuri_San%E2%98%86Hai/video>
+Edit <https://myanimelist.net/ownlist/anime/30279/edit?hideLayout> -
+More <#>
+	7 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	146 	<https://myanimelist.net/anime/10495/Yuru_Yuri> 	YuruYuri: Happy
+Go Lily <https://myanimelist.net/anime/10495/Yuru_Yuri> Watch Episode
+Video <https://myanimelist.net/anime/10495/Yuru_Yuri/video>
+Edit <https://myanimelist.net/ownlist/anime/10495/edit?hideLayout> -
+More <#>
+	7 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	147 	<https://myanimelist.net/anime/12403/Yuru_Yuri%E2%99%AA%E2%99%AA>
+YuruYuri: Happy Go Lily ♪♪
+<https://myanimelist.net/anime/12403/Yuru_Yuri%E2%99%AA%E2%99%AA> Watch
+Episode Video
+<https://myanimelist.net/anime/12403/Yuru_Yuri%E2%99%AA%E2%99%AA/video>
+Edit <https://myanimelist.net/ownlist/anime/12403/edit?hideLayout> -
+More <#>
+	6 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	148 	<https://myanimelist.net/anime/15911/Yuyushiki> 	Yuyushiki
+<https://myanimelist.net/anime/15911/Yuyushiki>
+Edit <https://myanimelist.net/ownlist/anime/15911/edit?hideLayout> -
+More <#>
+	8 <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	149 	<https://myanimelist.net/anime/3228/Zoku_Sayonara_Zetsubou_Sensei>
+	Zoku Sayonara Zetsubou Sensei
+<https://myanimelist.net/anime/3228/Zoku_Sayonara_Zetsubou_Sensei>
+Edit <https://myanimelist.net/ownlist/anime/3228/edit?hideLayout> - More <#>
+	7 <#> 	TV 	
+- <#> / 13 // <#>
+	
+Edit <#>
+	150 	<https://myanimelist.net/anime/25397/Absolute_Duo> 	Absolute Duo
+<https://myanimelist.net/anime/25397/Absolute_Duo> Watch Episode Video
+<https://myanimelist.net/anime/25397/Absolute_Duo/video>
+Edit <https://myanimelist.net/ownlist/anime/25397/edit?hideLayout> -
+More <#>
+	- <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	151 	<https://myanimelist.net/anime/40930/Azur_Lane__Bisoku_Zenshin>
+Azur Lane: Bisoku Zenshin!
+<https://myanimelist.net/anime/40930/Azur_Lane__Bisoku_Zenshin> Watch
+Episode Video
+<https://myanimelist.net/anime/40930/Azur_Lane__Bisoku_Zenshin/video>
+Edit <https://myanimelist.net/ownlist/anime/40930/edit?hideLayout> -
+More <#>
+	- <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	152 	<https://myanimelist.net/anime/32866/Brave_Witches> 	Brave Witches
+<https://myanimelist.net/anime/32866/Brave_Witches> Watch Episode Video
+<https://myanimelist.net/anime/32866/Brave_Witches/video>
+Edit <https://myanimelist.net/ownlist/anime/32866/edit?hideLayout> -
+More <#>
+	- <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	153 	<https://myanimelist.net/anime/31636/Dagashi_Kashi> 	Dagashi Kashi
+<https://myanimelist.net/anime/31636/Dagashi_Kashi>
+Edit <https://myanimelist.net/ownlist/anime/31636/edit?hideLayout> -
+More <#>
+	- <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	154 	<https://myanimelist.net/anime/22835/Himegoto> 	Himegoto
+<https://myanimelist.net/anime/22835/Himegoto> Watch Episode Video
+<https://myanimelist.net/anime/22835/Himegoto/video>
+Edit <https://myanimelist.net/ownlist/anime/22835/edit?hideLayout> -
+More <#>
+	- <#> 	TV 	
+- <#> / 13 // <#>
+	
+Edit <#>
+	155 	<https://myanimelist.net/anime/10110/Mayo_Chiki> 	Mayo Chiki!
+<https://myanimelist.net/anime/10110/Mayo_Chiki>
+Edit <https://myanimelist.net/ownlist/anime/10110/edit?hideLayout> -
+More <#>
+	- <#> 	TV 	
+- <#> / 13 // <#>
+	
+Edit <#>
+	156
+<https://myanimelist.net/anime/36632/Ore_ga_Suki_nano_wa_Imouto_dakedo_Imouto_ja_Nai> 	My Sister, My Writer <https://myanimelist.net/anime/36632/Ore_ga_Suki_nano_wa_Imouto_dakedo_Imouto_ja_Nai> Watch Episode Video <https://myanimelist.net/anime/36632/Ore_ga_Suki_nano_wa_Imouto_dakedo_Imouto_ja_Nai/video>
+Edit <https://myanimelist.net/ownlist/anime/36632/edit?hideLayout> -
+More <#>
+	- <#> 	TV 	
+- <#> / 10 // <#>
+	
+Edit <#>
+	157 	<https://myanimelist.net/anime/147/Kimi_ga_Nozomu_Eien> 	Rumbling
+Hearts <https://myanimelist.net/anime/147/Kimi_ga_Nozomu_Eien>
+Edit <https://myanimelist.net/ownlist/anime/147/edit?hideLayout> - More <#>
+	- <#> 	TV 	
+- <#> / 14 // <#>
+	
+Edit <#>
+	158 	<https://myanimelist.net/anime/23277/Saenai_Heroine_no_Sodatekata>
+	Saekano: How to Raise a Boring Girlfriend
+<https://myanimelist.net/anime/23277/Saenai_Heroine_no_Sodatekata> Watch
+Episode Video
+<https://myanimelist.net/anime/23277/Saenai_Heroine_no_Sodatekata/video>
+Edit <https://myanimelist.net/ownlist/anime/23277/edit?hideLayout> -
+More <#>
+	- <#> 	TV 	
+- <#> / 12 // <#>
+	
+Edit <#>
+	159
+<https://myanimelist.net/anime/30727/Saenai_Heroine_no_Sodatekata_%E2%99%AD> 	Saekano: How to Raise a Boring Girlfriend .flat <https://myanimelist.net/anime/30727/Saenai_Heroine_no_Sodatekata_%E2%99%AD>
+Edit <https://myanimelist.net/ownlist/anime/30727/edit?hideLayout> -
+More <#>
+	- <#> 	TV 	
+- <#> / 11 // <#>
+	
+Edit <#>
+	160 	<https://myanimelist.net/anime/9751/Strike_Witches_Movie> 	Strike
+Witches: The Movie
+<https://myanimelist.net/anime/9751/Strike_Witches_Movie>
+Edit <https://myanimelist.net/ownlist/anime/9751/edit?hideLayout> - More <#>
+	- <#> 	Movie 	
+- <#> / 1 // <#>
+	
+Edit <#>
+
+//
+MyAnimeList.net is a property of MyAnimeList Co.,Ltd. ©2021 All Rights
+Reserved.
+This site is protected by reCAPTCHA and the Google Privacy Policy
+<https://policies.google.com/privacy> and Terms of Service
+<https://policies.google.com/terms> apply.
+
+<javascript:;><javascript:;>
